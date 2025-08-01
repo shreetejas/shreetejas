@@ -34,14 +34,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejuusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejuusername&theme=radical" width="48%" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
