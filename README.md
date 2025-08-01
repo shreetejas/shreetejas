@@ -6,8 +6,8 @@
 <h1 align="center">Hi 👋, I'm Shreetejas T C </h1>
 
 <p align="center">
-  <b>A passionate Data Analyst from India 🇮🇳</b><br>
-  Transforming data into insights using Power BI, Excel, SQL & Python
+  <b>A passionate Data Analyst from India </b><br>
+  In Transforming data into insights using Power BI, Excel, SQL & Python
 </p>
 
 ---
