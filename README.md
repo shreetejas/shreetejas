@@ -38,7 +38,7 @@
 ### 📌 Featured Projects
 
 - 🧾 [Sales Dashboard in Power BI](https://github.com/tejuusername/powerbi-sales-dashboard)
-- 📊 [Excel Insights - Retail Analysis](https://github.com/tejuusername/excel-retail-analysis)
+- 📊 [Excel Insights - Analysis](https://github.com/shreetejas/Excel-Data-Analysis-dashboard)
 - 🐍 [Python & NumPy Projects](https://github.com/tejuusername/numpy-projects)
 
 ---
